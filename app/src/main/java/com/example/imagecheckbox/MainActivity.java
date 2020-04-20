@@ -23,7 +23,7 @@ public class MainActivity extends AppCompatActivity {
         imageView6 =findViewById(R.id.imageView6);
         imageView7 =findViewById(R.id.imageView7);
         imageView8 =findViewById(R.id.imageView8);
-        
+
 
         int[] id = {R.id.checkBox,R.id.checkBox2,R.id.checkBox3,R.id.checkBox4};
 
